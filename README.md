@@ -1,0 +1,2 @@
+# djangoclassbasedproject
+class based view
